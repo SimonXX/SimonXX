@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
+- 🔭 I’m currently working on software development for banking services and on AI-based clustering solutions for ticket management.
+- 🌱 I’m currently learning German and enhancing my cybersecurity skills on Hack The Box.
+- 👯 I’m looking to collaborate with companies that can help me further specialize and deepen my expertise.
 
   
 <!--
